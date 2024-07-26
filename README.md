@@ -1,2 +1,5 @@
-# nationalize
-Predict the Ethnicity of a Name
+# Nationalize
+
+Predict the Ethnicity of a Name, using Nationalize API
+
+
